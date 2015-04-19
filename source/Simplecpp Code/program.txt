@@ -1,0 +1,7 @@
+#include <simplecpp>
+main_program
+{
+	turtleSim();
+	/* All the commands and instructions
+		are given here */
+}
